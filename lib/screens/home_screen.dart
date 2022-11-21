@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'Movies Collection',
+          'BLUE COLLECTION',
         ),
       ),
     );
